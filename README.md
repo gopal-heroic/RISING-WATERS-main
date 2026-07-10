@@ -124,7 +124,6 @@ The web application consists of:
 Users enter weather-related parameters to receive instant flood prediction results.
 
 ---
-
 RISING-WATERS/
 │
 ├── templates/
