@@ -137,50 +137,14 @@ RISING-WATERS/
 │
 └── Project Documentation/
     ├── 1. Brainstorming & Ideation/
-    │   ├── Brainstorming & Idea Prioritization.docx
-    │   ├── Define Problem Statement.docx
-    │   └── Empathy Map.docx
-    │
-    ├── 2. Requirement Analysis/
-    │   ├── Customer Journey Map.docx
-    │   ├── Data Flow Diagram.docx
-    │   ├── Functional Requirements.docx
-    │   └── Technology Stack.docx
-    │
+    ├── 2. Requirement Analysis
     ├── 3. Project Design Phase/
-    │   ├── System Architecture.docx
-    │   ├── Use Case Diagram.docx
-    │   ├── Class Diagram.docx
-    │   └── Sequence Diagram.docx
-    │
-    ├── 4. Project Planning Phase/
-    │   ├── Sprint Planning.docx
-    │   ├── Project Schedule.docx
-    │   ├── Risk Analysis.docx
-    │   └── Milestones.docx
-    │
-    ├── 5. Project Development Phase/
-    │   ├── Source Code/
-    │   ├── Dataset/
-    │   ├── Model Training/
-    │   ├── Flask Application/
-    │   └── Testing Reports/
-    │
+    ├── 4. Project Planning Phase
+    ├── 5. Project Development Phase
     ├── 6. Project Testing/
-    │   ├── Unit Testing.docx
-    │   ├── Integration Testing.docx
-    │   ├── System Testing.docx
-    │   └── Test Cases.docx
-    │
     ├── 7. Project Documentation/
-    │   ├── Final Report.docx
-    │   ├── User Manual.docx
-    │   └── Installation Guide.docx
-    │
     └── 8. Project Demonstration/
-        ├── Presentation.pptx
-        ├── Demo Video.mp4
-        └── Screenshots/
+    
 
 ---
 
